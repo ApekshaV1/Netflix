@@ -1,0 +1,1 @@
+This is a simple Netflix Clone built using HTML, CSS, and JavaScript. The project replicates the user interface of Netflix, allowing users to browse movie and TV show thumbnails, view details, and watch trailers. This clone does not feature a backend and is focused purely on front-end design and functionality.
